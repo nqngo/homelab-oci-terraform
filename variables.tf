@@ -1,0 +1,14 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "region" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "compartment_ocid" {}
+variable "vcn_cidr_blocks" {}
+variable "vcn_display_name" {}
+variable "vcn_dns_label" {}
+variable "vcn_search_paths" {}
+variable "vcn_gw_display_name" {}
+variable "vcn_subnet_cidr_block" {}
+variable "vcn_home_ip_src" {}
+variable "vcn_unifi_devices_cidr" {}
